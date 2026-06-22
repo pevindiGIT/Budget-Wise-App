@@ -1,0 +1,7 @@
+.env
+client/.env
+server/.env
+
+COMPLETION_SUMMARY.md
+DEPLOYMENT.md
+QUICK_START.md
